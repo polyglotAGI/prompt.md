@@ -1,4 +1,4 @@
-# polyglotAI augmented generative intelliegence
+# polyglotAI augmented generative intelligence
 
 Objective:
 
